@@ -7,3 +7,5 @@ require('plugins')
 require('mappings')
 
 require('basic')
+
+require('settings')

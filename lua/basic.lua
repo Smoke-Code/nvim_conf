@@ -12,6 +12,7 @@ opt.hlsearch = true
 opt.incsearch = true
 opt.clipboard = "unnamedplus"
 opt.showmode = false
+opt.mouse = 'a'
 
 g.mapleader = " " 
 
